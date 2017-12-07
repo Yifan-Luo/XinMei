@@ -18,9 +18,9 @@ layout: default
 
 
 <p align="center">
-  <img width="400" height="600" src="https://github.com/Yifan-Luo/xinmei/raw/master/743245639.jpg">
+  <img width="600" height="600" src="https://github.com/Yifan-Luo/xinmei/raw/master/743245639.jpg">
 </p>
 
 <p align="center">
-  <img height="460" src="https://github.com/Yifan-Luo/xinmei/raw/master/banner3_m.png">
+  <img height="430" src="https://github.com/Yifan-Luo/xinmei/raw/master/banner3_m.png">
 </p>
