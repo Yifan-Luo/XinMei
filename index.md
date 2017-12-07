@@ -22,5 +22,5 @@ layout: default
 </p>
 
 <p align="center">
-  <img height="430" src="https://github.com/Yifan-Luo/xinmei/raw/master/banner3_m.png">
+  <img height="430" src="https://github.com/Yifan-Luo/xinmei/raw/master/xinmei.jpg">
 </p>
