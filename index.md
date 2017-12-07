@@ -20,11 +20,11 @@ layout: default
 .center[![](https://github.com/Yifan-Luo/xinmei/raw/master/banner3_m.png)]
 
 <p align="center">
-  <img width="460" height="600" src="https://github.com/Yifan-Luo/xinmei/raw/master/743245639.jpg">
+  <img width="400" height="600" src="https://github.com/Yifan-Luo/xinmei/raw/master/743245639.jpg">
 </p>
 
 <p align="center">
-  <img height="300" src="https://github.com/Yifan-Luo/xinmei/raw/master/banner3_m.png">
+  <img height="500" src="https://github.com/Yifan-Luo/xinmei/raw/master/banner3_m.png">
 </p>
 
-//.center[![](http://www.pzjyyd.com/uploads/allimg/170904/1-1FZ4142043M2.jpg){:height="120%" width="120%"}]
+<>(.center[![](http://www.pzjyyd.com/uploads/allimg/170904/1-1FZ4142043M2.jpg){:height="120%" width="120%"})
