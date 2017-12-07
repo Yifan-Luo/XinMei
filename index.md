@@ -2,8 +2,6 @@
 layout: default
 ---
 
-.center[![](https://github.com/Yifan-Luo/xinmei/raw/master/tou.png)]
-
 # [](#header-1)多家公司同时操作
 
 分期消费贷款，11家公司同时操作，不用东奔西跑，额度高，速度快，6万内额度，任您选择！只要拨打15994015333即可拿走钱！还款4次后，可操作多家现金贷款！欢迎各大中介前来合作，只要介绍客户，就有高返利！快来致电吧：15994015333（微信同号）
@@ -18,7 +16,7 @@ layout: default
 
 # [](#header-2)当天申请    当天审批    当天放款
 
-.center[![](https://github.com/Yifan-Luo/xinmei/raw/master/743245639.jpg){:height="50%" width="50%"}]
+.center[![](https://github.com/Yifan-Luo/xinmei/raw/master/743245639.jpg)]
 
 .center[![](https://github.com/Yifan-Luo/xinmei/raw/master/banner3_m.png)]
 
