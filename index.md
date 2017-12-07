@@ -3,7 +3,7 @@ layout: default
 ---
 
 
-![Centered image](https://github.com/Yifan-Luo/xinmei/blob/master/tou.png)
+.center[](https://github.com/Yifan-Luo/xinmei/blob/master/tou.png)
 
 # [](#header-1)多家公司同时操作
 
@@ -21,10 +21,10 @@ layout: default
 # [](#header-2)当天申请    当天审批    当天放款
 
 
-![Centered image](https://github.com/Yifan-Luo/xinmei/raw/master/743245639.jpg){:height="50%" width="50%"}
+.center[](https://github.com/Yifan-Luo/xinmei/raw/master/743245639.jpg){:height="50%" width="50%"}
 
-![Centered image](https://github.com/Yifan-Luo/xinmei/blob/master/banner3_m.png)
+.center[](https://github.com/Yifan-Luo/xinmei/blob/master/banner3_m.png)
 
 
-![Centered image](http://www.pzjyyd.com/uploads/allimg/170904/1-1FZ4142043M2.jpg){:height="120%" width="120%"}
+.center[](http://www.pzjyyd.com/uploads/allimg/170904/1-1FZ4142043M2.jpg){:height="120%" width="120%"}
 
