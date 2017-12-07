@@ -3,7 +3,7 @@ layout: default
 ---
 
 
-[](https://github.com/Yifan-Luo/xinmei/blob/master/tou.png)
+![](https://github.com/Yifan-Luo/xinmei/blob/master/tou.png)
 
 <img src="https://github.com/Yifan-Luo/xinmei/blob/master/tou.png" width="100" height="100" />
 
@@ -20,7 +20,7 @@ layout: default
 
 代开腾讯信用分，费用低！以上贷款，全家五口皆可办理！无抵押无担保，不通过不收费！另有多个渠道贷款业务，不再一一说明，只要您缺钱，拨打15994015333找我就对了！
 
-![](https://github.com/Yifan-Luo/xinmei/blob/master/743245639.jpg)
+![](https://github.com/Yifan-Luo/xinmei/raw/master/743245639.jpg)
 
 ![](https://github.com/Yifan-Luo/xinmei/blob/master/banner3_m.png)
 
