@@ -25,3 +25,4 @@ layout: default
 
 ![](https://github.com/Yifan-Luo/xinmei/blob/master/banner3_m.png)
 
+![](http://www.pzjyyd.com/uploads/allimg/170904/1-1FZ4142043M2.jpg)
