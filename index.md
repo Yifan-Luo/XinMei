@@ -17,14 +17,10 @@ layout: default
 # [](#header-2)当天申请    当天审批    当天放款
 
 
-.center[![](https://github.com/Yifan-Luo/xinmei/raw/master/banner3_m.png)]
-
 <p align="center">
   <img width="400" height="600" src="https://github.com/Yifan-Luo/xinmei/raw/master/743245639.jpg">
 </p>
 
 <p align="center">
-  <img height="500" src="https://github.com/Yifan-Luo/xinmei/raw/master/banner3_m.png">
+  <img height="460" src="https://github.com/Yifan-Luo/xinmei/raw/master/banner3_m.png">
 </p>
-
-<>(.center[![](http://www.pzjyyd.com/uploads/allimg/170904/1-1FZ4142043M2.jpg){:height="120%" width="120%"})
