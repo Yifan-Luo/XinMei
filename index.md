@@ -22,7 +22,7 @@ layout: default
 # [](#header-2)当天申请    当天审批    当天放款
 
 <p align="center">
-![](https://github.com/Yifan-Luo/xinmei/raw/master/743245639.jpg){:height="50%" width="50%"}
+![height="50%" width="50%"](https://github.com/Yifan-Luo/xinmei/raw/master/743245639.jpg)
 
 ![](https://github.com/Yifan-Luo/xinmei/blob/master/banner3_m.png)
 
