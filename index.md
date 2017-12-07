@@ -2,95 +2,20 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+# [](#header-1)多家公司同时操作
 
-[Link to another page](another-page).
+分期消费贷款，11家公司同时操作，不用东奔西跑，额度高，速度快，6万内额度，任您选择！只要拨打15994015333即可拿走钱！还款4次后，可操作多家现金贷款！欢迎各大中介前来合作，只要介绍客户，就有高返利！快来致电吧：15994015333（微信同号）
 
 
+# [](#header-1)无视征信
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+信美贷款，无视征信，看好了，是无视！只要您有实名制电话卡，带上身份证银行卡，拨打15994015333，找我来拿钱！
 
-# [](#header-1)Header 1
+# [](#header-1)代开腾讯信用分
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+代开腾讯信用分，费用低！以上贷款，全家五口皆可办理！无抵押无担保，不通过不收费！另有多个渠道贷款业务，不再一一说明，只要您缺钱，拨打15994015333找我就对了！
 
-## [](#header-2)Header 2
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### [](#header-3)Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### [](#header-4)Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### [](#header-5)Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### [](#header-6)Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
 
 ### Small image
 
@@ -100,24 +25,3 @@ end
 
 ![](https://guides.github.com/activities/hello-world/branching.png)
 
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
