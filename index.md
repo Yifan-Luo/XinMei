@@ -1,9 +1,11 @@
 ---
 layout: default
 ---
+
+
 [](https://github.com/Yifan-Luo/xinmei/blob/master/tou.png)
 
-
+<img src="https://github.com/Yifan-Luo/xinmei/blob/master/tou.png" width="100" height="100" />
 
 # [](#header-1)多家公司同时操作
 
