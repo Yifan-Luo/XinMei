@@ -20,6 +20,8 @@ layout: default
 <img align="left" width="100" height="100" src="http://www.fillmurray.com/100/100">
 .center[![](https://github.com/Yifan-Luo/xinmei/raw/master/banner3_m.png)]
 
-<img align="center" width="100" height="100" src="https://github.com/Yifan-Luo/xinmei/raw/master/743245639.jpg">
+<p align="center">
+  <img width="460" height="300" src="https://github.com/Yifan-Luo/xinmei/raw/master/743245639.jpg">
+</p>
 
 //.center[![](http://www.pzjyyd.com/uploads/allimg/170904/1-1FZ4142043M2.jpg){:height="120%" width="120%"}]
