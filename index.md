@@ -20,6 +20,5 @@ layout: default
 
 ![](https://github.com/Yifan-Luo/xinmei/blob/master/banner3_m.png)
 
-# [](#header-2)当天申请  # [](#header-2)当天审批  # [](#header-2)当天放款
-![](http://m.pzjyyd.com/uploads/161226/1-161226144RY43.png)
+# [](#header-2)当天申请    当天审批    当天放款
 ![](http://www.pzjyyd.com/uploads/allimg/170904/1-1FZ4142043M2.jpg)
