@@ -19,9 +19,9 @@ layout: default
 
 ### Small image
 
-![](https://assets-cdn.github.com/images/icons/emoji/octocat.png)
+![](https://github.com/Yifan-Luo/xinmei/blob/master/743245639.jpg)
 
 ### Large image
 
-![](https://guides.github.com/activities/hello-world/branching.png)
+![](https://github.com/Yifan-Luo/xinmei/blob/master/banner3_m.png)
 
